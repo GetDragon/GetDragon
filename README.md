@@ -5,7 +5,7 @@
 ### ​ Hola, soy GetDragon
 
 **Desarrollador apasionado por el aprendizaje continuo.**  
-"Only a ignorant coder... still learning." :contentReference[oaicite:1]{index=1}
+"Only a ignorant coder... still learning."
 
 ---
 
@@ -13,8 +13,10 @@
 
 | Lenguajes / Tecnologías  |
 |--------------------------|
+| .NET | netCore           |
+| Python                   |
 | JavaScript               |
-| Vue.js                   |
+| Angular                  |
 | Markdown                 |
 | jQuery / GitHub Pages    |
 
@@ -22,18 +24,8 @@
 
 ##  Lo que hago
 
-- 🚀 Desarrollo proyectos con **JavaScript** y **Vue.js**, como se observa en *MainRep* con despliegue mediante GitHub Pages :contentReference[oaicite:2]{index=2}.
-- 📄 Soy experto en elaborar documentación clara y organizada usando **Markdown**.
-- ☁️ Gestiono despliegues automatizados con **GitHub Pages** y Jekyll :contentReference[oaicite:3]{index=3}.
+- 🚀 Desarrollo proyectos con los lenguajes mencionados anteriormente.
 - 🔧 Me defino como un **desarrollador en constante aprendizaje** con motivación para afrontar nuevos desafíos.
-
----
-
-##  Destacados
-
-- **Repositorios activos:** 126 en total, reflejo de constancia e involucramiento con múltiples proyectos :contentReference[oaicite:4]{index=4}.
-- **Más de 800 ⭐️** otorgados por la comunidad :contentReference[oaicite:5]{index=5}.
-- Logro notable: **Arctic Code Vault Contributor** :contentReference[oaicite:6]{index=6}.
 
 ---
 
